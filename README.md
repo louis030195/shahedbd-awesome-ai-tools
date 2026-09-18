@@ -544,6 +544,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Mem AI](https://mem.ai) — AI-powered workspace that automatically organizes your notes by context.
 - [Reflect](https://reflect.app) — AI-powered note-taking with networked thought connections.
 - [Rewind AI](https://rewind.ai) — Records everything on your Mac and makes it instantly searchable with AI.
+- [Screenpipe](https://screenpipe.com/) — Search captured screen text and audio history across apps, with local API and MCP access for AI assistants. Raw history stays local by default; optional cloud features can transmit context. Source-available under the Screenpipe Commercial License. `#free` `#api`
 - [Recall](https://www.recall.ai) — Summarize and connect everything you read online into a knowledge base. `#free`
 
 ### Meeting Assistants
